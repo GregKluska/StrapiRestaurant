@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_dish_dish_options",
+  "info": {
+    "name": "Dish Option",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "price": {
+      "type": "string"
+    }
+  }
+}
