@@ -10,7 +10,7 @@
       "type": "string"
     },
     "price": {
-      "type": "string"
+      "type": "float"
     }
   }
 }
